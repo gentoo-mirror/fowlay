@@ -1,0 +1,11 @@
+DEFINED_PHASES=compile install unpack
+DEPEND=dev-util/cmake dev-libs/libconfig
+DESCRIPTION=Support for MS Sidewinder X4, X6 and Logitech G105, G710, G710+
+EAPI=6
+HOMEPAGE=https://github.com/tolga9009/sidewinderd
+KEYWORDS=~amd64
+LICENSE=MIT
+RDEPEND=dev-util/cmake dev-libs/libconfig
+SLOT=0
+SRC_URI=https://github.com/tolga9009/sidewinderd/archive/d6d2513dad4a044aaecb297e41bf5e5f04e7bbf1.zip -> sidewinderd-20170428.zip
+_md5_=071ff4b1f16e84b31f81ce8946c5f4b3
